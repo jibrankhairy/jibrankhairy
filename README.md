@@ -9,6 +9,13 @@ I’m Jibran, a front-end and back-end web developer focused on building full-st
 Currently studying at Politeknik Negeri Jakarta, I love solving real-world problems through clean, scalable code and intuitive design.  
 I'm always exploring new technologies, especially in web development, IoT, and cloud computing.
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jibrankhairy&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jibrankhairy&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+<img src="https://raw.githubusercontent.com/jibrankhairy/jibrankhairy/output/snake.svg" alt="Snake animation" />
+
 ### 💡My Interests
 
 Front-end Development | Back-end Development | Full-stack Development | Mobile Development | Cloud Engineering | IoT Systems
@@ -41,18 +48,4 @@ Front-end Development | Back-end Development | Full-stack Development | Mobile D
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" height="40"/>
-</p>
-
----
-
-### 📫 Connect with Me
-
-<p align="left">
- <a href="https://www.instagram.com/jibrankhry/" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="30" height="30" />
-</a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/jibrankhairyakram/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30" height="30"/>
-  </a>
 </p>
